@@ -1,4 +1,4 @@
 # AWS SDK .NET
 
-https://github.com/aws/aws-sdk-net
+Official repo web url: https://github.com/aws/aws-sdk-net
 
